@@ -1,2 +1,2 @@
 # SI
-Sztuczna Inteligencja
+Systemy Inteligentne 1
