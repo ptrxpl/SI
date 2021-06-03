@@ -5,7 +5,7 @@ skfuzzy, logika rozmyta
 
 - Lab1 - wyhamowanie pojazdu przed budynkiem
 - Lab2 - wyhamowanie suwnicy na środku jej drogi
-- Lab3 - parkowanie równolegle i prostopadłe
+- Lab3 - parkowanie prostopadłe
 
 Instrukcja:
 - plik .ttt odpalić w CoppeliaSim Edu
